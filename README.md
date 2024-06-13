@@ -57,6 +57,8 @@ Here, I will post the road-maps of the skills needed to become a Data Analyst. T
 
 ### SQL Complete Roadmap
 
+## Some of the links in **SQL Complete Roadmap** may not work properly, you can go to PDF and open links from there.
+
 - [SQL Videos](#sql-videos)
   - [SQL Course for Beginners](#sql-course-for-beginners)
   - [SQL (Basics to Advanced)](#sql-basics-to-advanced)
