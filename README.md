@@ -245,7 +245,7 @@ This roadmap is designed to guide beginners who want to become data analysts. It
 8. [Session 22 - Vectorized String Operations | DateTime in Pandas | Pivot Table | DSMP 2022-23](https://youtube.com)
 
 ### Pandas Documentation
-1. [10 minutes to pandas — pandas 2.2.2 documentation (pydata.org)](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
+1. [10 minutes to pandas — pandas 2.2.2 documentation (pydata.org)]([https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html](https://pandas.pydata.org/docs/user_guide/10min.html?fbclid=IwZXh0bgNhZW0CMTEAAR0jugfzvNyToFMkJ7MMuLFmcMvprLwmxeXSm5ibxswGltmKq6QInycjsHE_aem_7sd--ZrjTj-ceanajqEIkg))
 2. [Getting started — pandas 2.2.2 documentation (pydata.org)](https://pandas.pydata.org/pandas-docs/stable/getting_started/index.html)
 3. [Pandas Introduction - GeeksforGeeks](https://www.geeksforgeeks.org/python-pandas-introduction/)
 4. [Pandas Tutorial (w3schools.com)](https://www.w3schools.com/python/pandas/default.asp)
