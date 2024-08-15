@@ -82,7 +82,7 @@ Here, I will post the road-maps of the skills needed to become a Data Analyst. T
 
 ### SQL Complete Roadmap
 
-## Some of the links in **SQL Complete Roadmap** may not work properly, you can go to PDF and open links from there.
+## Table of Contents
 
 - [SQL Videos](#sql-videos)
   - [SQL Course for Beginners](#sql-course-for-beginners)
@@ -93,120 +93,107 @@ Here, I will post the road-maps of the skills needed to become a Data Analyst. T
 - [Watch and Practice SQL](#watch-and-practice-sql)
 - [Everyday Data Science – YouTube Channel](#everyday-data-science--youtube-channel)
 
-### SQL Videos
+---
 
-#### SQL Course for Beginners
+## SQL Videos
 
-1. **SQL Course for Beginners – Playlist**  
-   [SQL Course | For Beginners - YouTube](https://www.youtube.com/playlist?list=PL0zysOflRCek0ff0dAw5HBlh8ueRBCj2E)
+### SQL Course for Beginners
 
-2. **SQL Tutorial for Beginners [Ultimate Full Course] - From Zero to HERO**  
-   [SQL Tutorial for Beginners [Ultimate Full Course] - From Zero to HERO - YouTube](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+1. [SQL Course | For Beginners - YouTube](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZDdRInCl7wfOO8yZqYX5hO)
 
-#### SQL (Basics to Advanced)
+2. [SQL Tutorial for Beginners [Ultimate Full Course] - YouTube](https://www.youtube.com/watch?v=NTgejLheGeU)
 
-1. **MySQL Basic Tutorial Series**  
-   [MySQL Basics Tutorial Series - YouTube](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D)
+### SQL (Basics to Advanced)
 
-2. **MySQL Intermediate Tutorial Series**  
-   [Intermediate MySQL Tutorial Series - YouTube](https://www.youtube.com/playlist?list=PLjQo0sojbbxXq1M8V-R9TKK2JXZnrA5yW)
+1. [MySQL Basics Tutorial Series - YouTube](https://www.youtube.com/playlist?list=PLUaB-1hjhk8Fq6RBY-3MQ5MCXB5qxb8VA)
 
-3. **MySQL Advanced Tutorial Series**  
-   [Advanced MySQL Tutorial Series - YouTube](https://www.youtube.com/playlist?list=PLjQo0sojbbxaE55DKtoYhdBQa9zSDHhEL)
+2. [Intermediate MySQL Tutorial Series - YouTube](https://www.youtube.com/playlist?list=PLUaB-1hjhk8G5zci4HA8E21x2BJS3jzNm)
+
+3. [Advanced MySQL Tutorial Series - YouTube](https://www.youtube.com/playlist?list=PLUaB-1hjhk8GjfgvWlreA6BvTvazz8RHG)
 
 ### SQL Projects
 
-1. **Data Cleaning in MySQL - Full Project**  
-   [Data Cleaning in MySQL | Full Project](https://www.youtube.com/watch?v=V1pO8QXi7aI)
+1. [Data Cleaning in MySQL | Full Project](https://www.youtube.com/watch?v=4UltKCnnnTA)
 
-2. **MySQL Exploratory Data Analysis – Full Project**  
-   [MySQL Exploratory Data Analysis | Full Project](https://www.youtube.com/watch?v=YAJWiCHM6QI)
+2. [MySQL Exploratory Data Analysis | Full Project](https://www.youtube.com/watch?v=QYd-RtK58VQ)
 
-### SQL Theoretical Learning Websites
+---
 
-1. **MySQL Simple Easy Learning - TutorialsPoint**  
-   [MySQL Tutorial (tutorialspoint.com)](https://www.tutorialspoint.com/mysql/index.htm)
+## SQL Theoretical Learning Websites
 
-2. **SQL Tutorial – SQLtutorial**  
-   [SQL Tutorial - Essential SQL For The Beginners](https://www.sqltutorial.org/)
+1.  [MySQL Tutorial (tutorialspoint.com)](https://www.tutorialspoint.com/mysql/index.htm)
 
-3. **MySQL Tutorial - GeeksforGeeks**  
-   [MySQL Tutorial: Master the Essentials of Database Management (geeksforgeeks.org)](https://www.geeksforgeeks.org/mysql-tutorial/)
+2.  [SQL Tutorial - Essential SQL For The Beginners](https://www.sqltutorial.org/)
 
-### SQL Practice Websites
+3.  [MySQL Tutorial: Master the Essentials of Database Management (geeksforgeeks.org)](https://www.geeksforgeeks.org/mysql-tutorial/)
 
-1. **SQL Practice (Beginner & Advanced)**  
-   [SQLCourse: Beginner & Advanced Interactive SQL Tutorials](https://www.sqlcourse.com/)
+---
 
-2. **Introduction to SQL**  
-   [SQLBolt - Learn SQL - Introduction to SQL](https://sqlbolt.com/)
+## SQL Practice Websites
 
-3. **SQL Practice**  
-   [Learn SQL - Online SQL Terminal - Practice SQL Queries (sql-practice.com)](https://www.sql-practice.com/)
+1.  [SQLCourse: Beginner & Advanced Interactive SQL Tutorials](https://www.sqlcourse.com/)
 
-4. **MySQL Exercises, Practice, Solution**  
-   [MySQL Exercises, Practice, Solution - w3resource](https://www.w3resource.com/mysql-exercises/)
+2.  [SQLBolt - Learn SQL - Introduction to SQL](https://sqlbolt.com/)
+
+3.  [Learn SQL - Online SQL Terminal - Practice SQL Queries (sql-practice.com)](https://www.sql-practice.com/)
+
+4.  [MySQL Exercises, Practice, Solution - w3resource](https://www.w3resource.com/mysql-exercises/)
 
 5. **HackerRank**
+
    1. [HackerRank Certifications](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
    2. [Solve SQL Questions](https://www.hackerrank.com/domains/sql)
    3. [HackerRank Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit)
 
-6. **W3schools**  
-   [MySQL Tutorial (w3schools.com)](https://www.w3schools.com/mysql/)
+6.  [MySQL Tutorial (w3schools.com)](https://www.w3schools.com/mysql/)
 
 7. **LeetCode**
+
    1. [Problems - LeetCode](https://leetcode.com/problemset/all/)
    2. [SQL 50 - Study Plan - LeetCode](https://leetcode.com/study-plan/sql-50/)
    3. [Top Interview 150 - Study Plan - LeetCode](https://leetcode.com/study-plan/top-interview-150/)
 
 8. **DataLemur**
+
    1. [Free SQL Tutorial for Data Analysts & Data Scientists (datalemur.com)](https://datalemur.com/sql)
    2. [SQL Interview Questions | DataLemur](https://datalemur.com/interview-questions)
 
 9. **StrataScratch**
+
    1. [SQL Data Manipulation for Data Scientists - StrataScratch](https://www.stratascratch.com/)
    2. [SQL Time & Date Manipulation for Data Scientists - StrataScratch](https://www.stratascratch.com/)
 
-### Watch and Practice SQL
+---
 
-1. **SQL Technical Interview Preparation**  
-   [SQL Technical Interview Prep - YouTube](https://www.youtube.com/watch?v=poQXNp9ItL4)
+## Watch and Practice SQL
 
-2. **ALL HackerRank SQL Solutions in ONE Video**  
-   [ALL HackerRank SQL Solutions in ONE Video! | Easy Medium Hard Problems - YouTube](https://www.youtube.com/watch?v=AMMiXJ3RBVY)
+1. [SQL Technical Interview Prep - YouTube](https://www.youtube.com/playlist?list=PLUaB-1hjhk8Fm_xpyeN4292wgE542Jy17)
 
-3. **EASY SQL LeetCode Interview Questions**  
-   [EASY SQL LeetCode Interview Questions | Practice (youtube.com)](https://www.youtube.com/watch?v=KlUgxEMqFss)
+2. [ALL HackerRank SQL Solutions in ONE Video! | Easy Medium Hard Problems - YouTube](https://www.youtube.com/watch?v=vpzO8QTrgbc)
 
-4. **HackerRank SQL Solutions**  
-   [HackerRank SQL Solutions - YouTube](https://www.youtube.com/watch?v=_9HkNYbt3Ys)
+3. [EASY SQL LeetCode Interview Questions | Practice (youtube.com)](https://www.youtube.com/watch?v=MprS7kSELms)
 
-5. **HackerRank SQL Certifications (Basics to Advanced)**  
-   [SQL Certifications - YouTube](https://www.youtube.com/watch?v=NJWRwz2D8yE)
+4. [HackerRank SQL Solutions - YouTube](https://www.youtube.com/playlist?list=PLCWQNLd8T4_huFie4p5nPt53tdAvu-U7_)
 
-### Everyday Data Science – YouTube Channel
+5. [SQL Certifications - YouTube](https://www.youtube.com/playlist?list=PLvNOQ5GOhxczvckjJAL-Q6PPRfPEv9mT7)
 
-1. **SQL Practice Questions – 375 videos**  
-   [SQL Practice Questions - YouTube](https://www.youtube.com/playlist?list=PLQguDFOxxf0pMBJ8l5zDJai1cfuWBc8Wv)
+---
 
-2. **LeetCode SQL Easy – 87 videos**  
-   [LeetCode SQL Easy - YouTube](https://www.youtube.com/playlist?list=PLQguDFOxxf0oeAgfwd9gTkRxLx9pC3LSv)
+## Everyday Data Science – YouTube Channel
 
-3. **LeetCode SQL Medium – 78 videos**  
-   [LeetCode SQL Medium - YouTube](https://www.youtube.com/playlist?list=PLQguDFOxxf0qNf1Xq69OuyI2dRe4_m8Af)
+1. [SQL Practice Questions - YouTube](https://www.youtube.com/playlist?list=PLtfxzVLWb-B-ws1ouwxY_yn8XaPCEoJiZ)
 
-4. **LeetCode SQL Hard – 11 videos**  
-   [LeetCode SQL Hard - YouTube](https://www.youtube.com/playlist?list=PLQguDFOxxf0p2fZRaR5T2Uk5Al53wx-gN)
+2. [LeetCode SQL Easy - YouTube](https://www.youtube.com/playlist?list=PLtfxzVLWb-B_V2BPwlXOmrbO4a-a43Eg5)
 
-5. **DataLemur SQL Easy – 19 videos**  
-   [DataLemur SQL Easy - YouTube](https://www.youtube.com/playlist?list=PLQguDFOxxf0qTDx1KBlwbBFgJhYdfN6Wr)
+3. [LeetCode SQL Medium - YouTube](https://www.youtube.com/playlist?list=PLtfxzVLWb-B93ewzBITsarfxNxJD4XJHd)
 
-6. **DataLemur SQL Medium – 12 videos**  
-   [DataLemur SQL Medium - YouTube](https://www.youtube.com/playlist?list=PLQguDFOxxf0rp1P5ViFfJmDCsKMB1v4wx)
+4. [LeetCode SQL Hard - YouTube](https://www.youtube.com/playlist?list=PLtfxzVLWb-B9M7Rx5BrZwZqSBP2_IzRMA)
 
-7. **DataLemur SQL Hard – 9 videos**  
-   [DataLemur SQL Hard - YouTube](https://www.youtube.com/playlist?list=PLQguDFOxxf0qYoJFlWlgyiwUwnFj_R-pR)
+5. [DataLemur SQL Easy - YouTube](https://www.youtube.com/playlist?list=PLtfxzVLWb-B-F6Ds1p85wLYxPGq1lAsfk)
+
+6. [DataLemur SQL Medium - YouTube](https://www.youtube.com/playlist?list=PLtfxzVLWb-B-WGRZGsl3SFlHxl49MOfKP)
+
+7. [DataLemur SQL Hard - YouTube](https://www.youtube.com/playlist?list=PLtfxzVLWb-B-4zEHGsxoCacaY4QfSVqh8)
 
 ---
 
