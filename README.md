@@ -199,10 +199,6 @@ Here, I will post the road-maps of the skills needed to become a Data Analyst. T
 
 ### Python Complete Roadmap
 
-## Introduction (Python for Data Analytics: Complete Roadmap)
-
-This roadmap is designed to guide beginners who want to become data analysts. It covers essential topics like Python fundamentals, NumPy, and Pandas, with links to tutorials and documentation. Whether you're just starting or looking to strengthen your skills, this roadmap will help you build a solid foundation in Python, which is crucial for data analysis.
-
 ---
 
 ## Table of Contents
@@ -279,5 +275,3 @@ This roadmap is designed to guide beginners who want to become data analysts. It
 5) [Pandas Basics - Learn Python - Free Interactive Python Tutorial](https://learnpython.org/en/Pandas_Basics)
 
 ---
-
-This ROADMAP provides a clear and structured way to help you develop your Python skills for data analysis. By following this roadmap, you'll have enough knowledge and skills necessary to excel in PYTHON and build a strong foundation for your career in data analysis. Happy learning!
