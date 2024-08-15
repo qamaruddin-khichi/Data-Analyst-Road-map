@@ -23,17 +23,17 @@ Here, I will post the road-maps of the skills needed to become a Data Analyst. T
 
 #### 11 Free Websites Will 100X Your Excel Skills
 
-1. Excelbasement.org
-2. Exceljet.net
-3. Mr.Excel.com
-4. Chandoo.org
-5. TrumpExcel.com
-6. TheSmartMethod.com
-7. Contextures.com
-8. ExcelCampus.com
-9. ExcelExposure.com
-10. Excel-Easy.com
-11. MyExcelOnline.com
+1. [Excel Basement](https://excelbasement.org/)
+2. [Excel Jet](https://exceljet.net/)
+3. [Mr. Excel](https://www.mrexcel.com/)
+4. [Chandoo](https://chandoo.org/)
+5. [Trump Excel](https://trumpexcel.com/)
+6. [The Smart Method](https://thesmartmethod.com/)
+7. [Contextures](https://www.contextures.com/)
+8. [Excel Campus](https://www.excelcampus.com/)
+9. [Excel Exposure](https://class.excelexposure.com/)
+10. [Excel Easy](https://www.excel-easy.com/)
+11. [My Excel Online](https://www.myexcelonline.com/)
 
 ---
 
