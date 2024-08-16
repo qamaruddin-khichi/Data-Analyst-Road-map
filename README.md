@@ -1,13 +1,14 @@
 # Data Analyst RoadMap
 
-Here, I will post the road-maps of the skills needed to become a Data Analyst. These will be free resources that I have used to learn.
+Here, I will post the road-maps of the skills needed to become a Data Analyst. These resources will be free of cost which I have used to learn myself. I assure, you don't need to go anywhere else to learn these tools (for free). I have got you covered everything you need to know. 
 
 ## Table of Contents
 
-- [Excel Complete Roadmap](#excel-complete-roadmap)
-- [Power BI Complete Roadmap](#power-bi-complete-roadmap)
-- [SQL Complete Roadmap](#sql-complete-roadmap)
-- [Python Complete Roadmap](#python-complete-roadmap)
+1. [Excel Complete Roadmap](#excel-complete-roadmap)
+2. [Power BI Complete Roadmap](#power-bi-complete-roadmap)
+3. [SQL Complete Roadmap](#sql-complete-roadmap)
+4. [Python Complete Roadmap](#python-complete-roadmap)
+5. [Contact Details](#contact-details)
 
 ---
 
@@ -273,5 +274,13 @@ Here, I will post the road-maps of the skills needed to become a Data Analyst. T
 3) [Pandas Introduction - GeeksforGeeks](https://www.geeksforgeeks.org/introduction-to-pandas-in-python/)
 4) [Pandas Tutorial (w3schools.com)](https://www.w3schools.com/python/pandas/default.asp)
 5) [Pandas Basics - Learn Python - Free Interactive Python Tutorial](https://learnpython.org/en/Pandas_Basics)
+
+---
+
+## Contact Details
+
+**Call:** +92-318-815444-1  
+**Email:** qamaruddinkhichi123@gmail.com  
+**LinkedIn:** [linkedin.com/in/qamaruddin-khichi/](https://www.linkedin.com/in/qamaruddin-khichi/)
 
 ---
