@@ -97,9 +97,9 @@ Here, I will post the road-maps of the skills needed to become a Data Analyst. T
 
 1. [SQL Tutorial for Beginners [Ultimate Full Course]](https://www.youtube.com/watch?v=NTgejLheGeU)  
 
-2. [SQL Course | Beginners to Advanced](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZDdRInCl7wfOO8yZqYX5hO)  
+2. [SQL Course | Beginners to Advanced](https://www.youtube.com/watch?v=OT1RErkfLNQ)  
 
-3. [Advanced SQL Course For Data Analytics](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe)  
+3. [Advanced SQL Course for Data Analytics](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe)  
 
 ---
 
