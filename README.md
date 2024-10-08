@@ -86,9 +86,6 @@ Here, I will post the road-maps of the skills needed to become a Data Analyst. T
 ## Table of Contents
 
 - [SQL Videos](#sql-videos)
-  - [SQL Course for Beginners](#sql-course-for-beginners)
-  - [SQL (Basics to Advanced)](#sql-basics-to-advanced)
-  - [SQL Projects](#sql-projects)
 - [SQL Theoretical Learning Websites](#sql-theoretical-learning-websites)
 - [SQL Practice Websites](#sql-practice-websites)
 - [Watch and Practice SQL](#watch-and-practice-sql)
@@ -98,27 +95,11 @@ Here, I will post the road-maps of the skills needed to become a Data Analyst. T
 
 ## SQL Videos
 
-### SQL Course for Beginners
+1. [SQL Tutorial for Beginners [Ultimate Full Course]](https://www.youtube.com/watch?v=NTgejLheGeU)  
 
-1. [SQL Course | For Beginners - YouTube](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZDdRInCl7wfOO8yZqYX5hO)
+2. [SQL Course | Beginners to Advanced](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZDdRInCl7wfOO8yZqYX5hO)  
 
-2. [SQL Tutorial for Beginners [Ultimate Full Course] - YouTube](https://www.youtube.com/watch?v=NTgejLheGeU)
-
-3. [Advanced SQL Course  For Data Analytics](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe) 
-
-### SQL (Basics to Advanced)
-
-1. [MySQL Basics Tutorial Series - YouTube](https://www.youtube.com/playlist?list=PLUaB-1hjhk8Fq6RBY-3MQ5MCXB5qxb8VA)
-
-2. [Intermediate MySQL Tutorial Series - YouTube](https://www.youtube.com/playlist?list=PLUaB-1hjhk8G5zci4HA8E21x2BJS3jzNm)
-
-3. [Advanced MySQL Tutorial Series - YouTube](https://www.youtube.com/playlist?list=PLUaB-1hjhk8GjfgvWlreA6BvTvazz8RHG)
-
-### SQL Projects
-
-1. [Data Cleaning in MySQL | Full Project](https://www.youtube.com/watch?v=4UltKCnnnTA)
-
-2. [MySQL Exploratory Data Analysis | Full Project](https://www.youtube.com/watch?v=QYd-RtK58VQ)
+3. [Advanced SQL Course For Data Analytics](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe)  
 
 ---
 
